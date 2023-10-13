@@ -27,7 +27,6 @@ After having cloned the repository:
 - `nvm use`
 - `npm install`
 - Duplicate `.env.example` into `.env`
-  - The variable `CMS_URL` is already set to match a locally running Directus CMS from [swisstchoukball/cms](https://github.com/swisstchoukball/cms).
 - `npm run dev`
 
 ### Run in production mode
